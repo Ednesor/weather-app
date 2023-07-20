@@ -26,3 +26,20 @@
     display: block;
     margin: auto auto
 }
+
+@media (max-width: 1000px) {
+    .container{
+        width: 90%;
+        height: 10vh;
+        margin: 10px 0 0 5vw;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .link{
+        display: flex;
+        width: 90px;
+        height: 10vh;
+        margin: 0;
+    }
+}
