@@ -1,0 +1,28 @@
+.container{
+    width: 100px;
+    height: 90vh;
+    max-height: 1000px;
+    background-color: var(--menu-color-1);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.671);
+    padding: 10px 0 10px 0;
+    margin: 3vh 0 0 20px;
+    position: fixed;
+}
+.link{
+    width: 90%;
+    height: 80px;
+    display: flex;
+    margin: 0 auto 10px auto;
+    border-radius: 10px;
+    transition: background-color .25s;
+}
+.link:hover{
+    background-color: rgba(0, 0, 0, 0.116);
+}
+.icon{
+    font-size: 30px;
+    color: black;
+    display: block;
+    margin: auto auto
+}
