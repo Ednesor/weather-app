@@ -1,7 +1,7 @@
 :root{
   --bg-color-1: rgb(105, 255, 255);
   --bg-color-2: rgb(0, 83, 207);
-  --menu-color-1: rgba(63, 209, 253, 0.507);
+  --menu-color-1: rgba(63, 209, 253, 0.363);
 }
 
 *{

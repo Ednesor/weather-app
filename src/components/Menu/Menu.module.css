@@ -6,7 +6,7 @@
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.671);
     padding: 10px 0 10px 0;
-    margin: 3vh 0 0 20px;
+    margin: 0 0 0 20px;
     position: fixed;
 }
 .link{
@@ -31,7 +31,7 @@
     .container{
         width: 90%;
         height: 10vh;
-        margin: 10px 0 0 5vw;
+        margin-left: 5vw;
         display: flex;
         justify-content: center;
         gap: 10px;

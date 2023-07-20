@@ -4,5 +4,6 @@ body{
         var(--bg-color-2)
     );
     background-repeat: no-repeat;
-    min-height: 100vh;
+    min-height: 96.5vh;
+    padding-top: 3.5vh;
 }
