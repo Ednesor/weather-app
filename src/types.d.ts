@@ -12,4 +12,5 @@ interface WeatherFromApi {
   wind_kph: number;
   wind_dir: string;
   humidity: number;
+  localtime: string;
 }
